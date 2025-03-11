@@ -1,5 +1,4 @@
 import random
-from dotenv import load_dotenv
 from environs import Env
 
 from aiogram import Bot, Dispatcher, F
