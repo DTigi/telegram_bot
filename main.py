@@ -1,7 +1,8 @@
 from dotenv import load_dotenv
 import os
 
-from aiogram import Bot, Dispatcher
+
+from aiogram import Bot, Dispatcher, F
 from aiogram.filters import Command
 from aiogram.types import Message, ContentType
 from aiogram import F
