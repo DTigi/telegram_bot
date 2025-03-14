@@ -3,8 +3,7 @@ import os
 
 from aiogram import Bot, Dispatcher
 from aiogram.filters import Command
-from aiogram.types import Message
-from aiogram.types import ContentType
+from aiogram.types import Message, ContentType
 from aiogram import F
 
 

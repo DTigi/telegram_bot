@@ -1,3 +1,5 @@
 .env
 botvenv/
 .vscode/
+.idea/
+.DS_Store
